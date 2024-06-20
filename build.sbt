@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "org.wvlet.airframe"     %% "airframe-log"                 % "21.2.0",
   "org.slf4j"              %  "slf4j-nop"                    % "1.7.30",
   "me.tongfei"             % "progressbar"                   % "0.9.3",
-  "io.joern"               %% "multilayer-php-cpg-generator" % "2.5.8",
+  "io.joern"               %% "multilayer-php-cpg-generator" % "2.5.9",
   "de.tubs.cs.ias"         %% "cpg-dotfile-exporter"         % "1.0.5",
 )
 
